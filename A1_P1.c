@@ -9,6 +9,8 @@ void searchDisp(char * string);
 
 //MAKING GITHUB CHANGES BLAH 
 //Making more CHANGES!!
+
+//BRANCH OUT 1
 typedef struct dataItem{
     char key[15];
     int frequency;
