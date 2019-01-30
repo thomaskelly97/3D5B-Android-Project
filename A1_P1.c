@@ -7,6 +7,7 @@ int hash1(char *s);
 int hashCode(int key);
 void searchDisp(char * string);
 
+//MAKING GITHUB CHANGES BLAH 
 
 typedef struct dataItem{
     char key[15];
@@ -41,7 +42,7 @@ int main ( int argc, char *argv[] ) {
     FILE *f;        
     char buffer[MAX_BUFFER];
     int col = 0;
-	
+	printf("Update github 1");
     for(int i=0;i<MAX_BUFFER;i++){
         hashArray[i].frequency = 0;
         strcpy(hashArray[i].key, "");
