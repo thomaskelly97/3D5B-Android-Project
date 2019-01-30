@@ -8,7 +8,7 @@ int hashCode(int key);
 void searchDisp(char * string);
 
 //MAKING GITHUB CHANGES BLAH 
-
+//Making more CHANGES!!
 typedef struct dataItem{
     char key[15];
     int frequency;
